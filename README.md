@@ -1,11 +1,11 @@
-About r-hypergeo
-================
+About r-hypergeo-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-hypergeo-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=hypergeo
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-hypergeo-feedstock/blob/main/LICENSE.txt)
 
 Summary: The Gaussian hypergeometric function for complex numbers.
 
